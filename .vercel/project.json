@@ -1,0 +1,17 @@
+{
+  "projectId": "prj_snake_game_h5_tageecc",
+  "orgId": "team_tageecc",
+  "settings": {
+    "framework": null,
+    "outputDirectory": ".",
+    "installCommand": null,
+    "buildCommand": null,
+    "devCommand": null,
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
